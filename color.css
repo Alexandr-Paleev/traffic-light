@@ -10,19 +10,7 @@
 	justify-content: space-around;
 	padding: 20px;
 }
-.red {
-	width: 100px;
-	height: 100px;
-	border-radius: 100px;
-	padding: 20px;
-}
-.yellow {
-	width: 100px;
-	height: 100px;
-	border-radius: 100px;
-	padding: 20px;
-}
-.green {
+.red,.yellow,.green {
 	width: 100px;
 	height: 100px;
 	border-radius: 100px;
